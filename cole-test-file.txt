@@ -1,2 +1,4 @@
 This is a changed file by Cole.
 This is a new line.
+
+Another line!
